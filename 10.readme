@@ -1,0 +1,14 @@
+Year: 2020
+This year is a leap year because it's evenly divisible by 4.
+
+Year: 2000
+This year is a leap year because it's evenly divisible by 400.
+
+Year: 2029
+This year is not a leap year because it's not evenly divisible by 4.
+
+So, the results are:
+
+2020: Leap year
+2000: Leap year
+2029: Not a leap year
