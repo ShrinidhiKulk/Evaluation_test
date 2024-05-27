@@ -5,7 +5,7 @@ Think of async as a way to tell JavaScript, "Hey, this function might take a lit
 Now, await is like a pause button for JavaScript. When you use await inside an async function, it's saying, "Hold up, let's not move on until we get the result we're waiting for." It's like waiting for a text reply before moving on to the next part of a conversation.
 
 Here's a simple example to illustrate:
-
+ 
 Let's say you're trying to fetch some information from a website. You write a function called fetchData that does this for you. But since fetching data can take a few moments, you mark this function as async. This tells JavaScript, "Hey, be patient, this might take a bit."*/
 
 	async function processData() {
