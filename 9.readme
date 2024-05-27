@@ -1,0 +1,14 @@
+Date: 30/02/2020
+
+This date is invalid because February doesn't have 30 days. February 2020 only has 29 days because it's a leap year.
+Date: 31/03/2000
+
+This date is valid because March has 31 days, and 2000 is a leap year.
+Date: 31/07/2029
+
+This date is valid because July has 31 days.
+So, the validity of the given dates are as follows:
+
+30/02/2020: Invalid
+31/03/2000: Valid
+31/07/2029: Valid
