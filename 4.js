@@ -1,6 +1,6 @@
 //You have a friend called getUserData, who's tasked with fetching user information for you. But, like any good friend, they're a bit unpredictable with their timing. 
 //So, you ask them to let you know when they're back with the data, and you'll figure out what to do with it.
-
+ 
 // Function to simulate fetching user data asynchronously
 	function getUserData(userId, callback) {
   	// Simulate an asynchronous operation (e.g., fetching data from a server)
