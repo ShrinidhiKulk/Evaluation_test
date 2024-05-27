@@ -1,0 +1,7 @@
+In JavaScript, you can read a JSON file using Node.js by requiring the file using `require('./data.json')`, which loads the JSON content directly into a variable.
+  const jsonData = require('./data.json');
+
+
+In Python, you utilize the built-in `json` module to open and parse the JSON file with `json.load(open('data.json'))`, extracting its contents into a variable for further use.
+  import json
+  jsonData = json.load(open('data.json'))
