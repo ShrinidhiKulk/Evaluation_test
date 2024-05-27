@@ -1,0 +1,8 @@
+In JavaScript, 
+console.log("22"+2); would result in "222" because when you use the + operator with a string and a number, JavaScript implicitly converts the number to a string and concatenates the strings. 
+So, "22" is concatenated with "2", resulting in "222".
+
+In Python, 
+print("22"+2) would result in a TypeError because Python does not perform implicit type conversion when using the + operator between a string and a number. 
+It expects the types to match, so trying to concatenate a string and a number directly would raise an error. To achieve similar behavior as in JavaScript, you would need to explicitly convert the number to a string first, 
+like this: print("22" + str(2)), which would output "222".
